@@ -493,3 +493,12 @@ Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-23 13:57:16
 
 
 Started GET "/assets/application.self.js?body=1" for ::1 at 2015-07-23 13:57:16 -0700
+
+
+Started GET "/assets/rails.png" for 14.177.161.109 at 2016-05-17 03:48:28 +0000
+
+
+Started GET "/assets/rails.png" for 14.177.161.109 at 2016-05-17 04:10:51 +0000
+
+
+Started GET "/assets/rails.png" for 14.177.161.109 at 2016-05-17 04:10:54 +0000
